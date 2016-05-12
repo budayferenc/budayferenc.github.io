@@ -1,3 +1,4 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="GotoImplementation" />
   <action id="Synchronize" />
 </keymap>
